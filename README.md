@@ -1,3 +1,3 @@
 ### Hola 👋
 
-![Visitas de mi perfil](https://komarev.com/ghpvc/?username=lambor590)
+![](https://komarev.com/ghpvc/?username=lambor590&label=Visitas+del+perfil)
